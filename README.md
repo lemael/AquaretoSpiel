@@ -14,6 +14,20 @@ folgende Phasen nacheinander im Projekt durchlaufen:
 ## Anwendungsfalldiagramm
 ![Bildschirmfoto vom 2024-05-18 21-52-20](https://github.com/lemael/AquaretoSpiel/assets/31794366/ec52529c-9119-494c-a40d-31f68637f617)
 
+## Aktivitätsdiagramm
+![activityTierInPark](https://github.com/lemael/AquaretoSpiel/assets/31794366/a3750c93-da1a-48c5-9ca0-bf94cac0854a)
+
+## Entity Model
+![entityProj2](https://github.com/lemael/AquaretoSpiel/assets/31794366/066e6f8c-c94a-4697-8a33-6d027e1a5dde)
+
+## Design
+![modelProj2](https://github.com/lemael/AquaretoSpiel/assets/31794366/f4273be1-9870-4c14-86de-0dce92fc2e9c)
+
+## GUI Konzept
+![GUI_Konzept_v2](https://github.com/lemael/AquaretoSpiel/assets/31794366/7ab2ee30-e75e-4d1b-bd33-fea0daa67317)
+
+
+
 ## Wichtige Links
 
 * Aktuelle Informationen zu diesem SoPra: https://sopra.cs.tu-dortmund.de/wiki/sopra/24a/start
