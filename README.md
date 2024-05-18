@@ -10,6 +10,11 @@ folgende Phasen nacheinander im Projekt durchlaufen:
 * Design
 * Implementierung und Testen
 
+## Start Spiel
+open src/main/kotlin und ausführen die Class Main.kt
+
+## Spiel Einblick
+[Bildschirmaufzeichnung vom 18.05.2024, 22:22:35.webm](https://github.com/lemael/AquaretoSpiel/assets/31794366/d300a391-a536-4d2f-8f8d-fb522c42a89d)
 
 ## Anwendungsfalldiagramm
 ![Bildschirmfoto vom 2024-05-18 21-52-20](https://github.com/lemael/AquaretoSpiel/assets/31794366/ec52529c-9119-494c-a40d-31f68637f617)
