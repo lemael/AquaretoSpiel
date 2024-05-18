@@ -12,9 +12,8 @@ folgende Phasen nacheinander im Projekt durchlaufen:
 
 
 ## Anwendungsfalldiagramm
-[usecaseProj2.asta](uploads/09d85964c0ab2192791e5d9aaadb6d3d/usecaseProj2.asta)
+![Bildschirmfoto vom 2024-05-18 21-52-20](https://github.com/lemael/AquaretoSpiel/assets/31794366/ec52529c-9119-494c-a40d-31f68637f617)
 
-![usecaseProj2](uploads/af0626808ee2cf53164466391682f70c/usecaseProj2.png)
 ## Wichtige Links
 
 * Aktuelle Informationen zu diesem SoPra: https://sopra.cs.tu-dortmund.de/wiki/sopra/24a/start
